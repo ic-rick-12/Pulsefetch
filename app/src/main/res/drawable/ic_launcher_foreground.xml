@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- PulseFetch Homepage Logo: White/Silver Pulse Waveform + Downward Arrow inside 66dp safe zone -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFF8FAFC"
+        android:strokeWidth="4.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M31,52 L41,52 L47,36 L55,66 L61,45 L67,52 L77,52" />
+    <!-- Downward silver download chevron -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFCBD5E1"
+        android:strokeWidth="4.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M45,67 L54,75 L63,67" />
+</vector>

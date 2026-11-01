@@ -1,0 +1,6 @@
+{
+  "name": "PulseFetch",
+  "description": "True-black AMOLED personal video and audio downloader with yt-dlp + FFmpeg extraction, WorkManager foreground queue, MediaStore saving, and a multi-tab browser with real-time media stream detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
